@@ -1,0 +1,8 @@
+Ref : https://css-tricks.com/gulp-for-beginners/
+ 
+Step 1 : npm install gulp -g	// install gulpjs globally. 
+step 2 : npm init		// initialize the node project.
+step 3 : package.json file is created.
+step 4 : npm install gulp --save-dev	// add gulp dependencies into the package.json file.
+step 5 : npm install gulp-sass --save-dev	// add dependency.
+step 6 : run gulp : gulp sass
