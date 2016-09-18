@@ -1,0 +1,14 @@
+{
+  "name": "tutorial_1",
+  "version": "1.0.0",
+  "description": "This is tutorial_1 for the gulpjs",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Archit Gajjar",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
+}
