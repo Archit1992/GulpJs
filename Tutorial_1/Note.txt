@@ -1,0 +1,14 @@
+Q) What is Gulp ?
+A) Gulp is a tool that helps you out with several tasks when it comes to web development. 
+-> Spinning up a web server
+-> Reloading the browser automatically whenever a file is saved
+-> Using preprocessors like Sass or LESS
+-> Optimizing assets like CSS, JavaScript, and images.
+
+ 
+
+Step 1 : npm install gulp -g	// install gulpjs globally. 
+step 2 : npm init		// initialize the node project.
+step 3 : package.json file is created.
+step 4 : npm install gulp --save-dev	// add gulp dependencies into the package.json file.
+step 5 : gulp 
