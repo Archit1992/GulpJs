@@ -1,0 +1,1 @@
+function hello1(){alert("hello Archit from combined.js")}function hello(){alert("hello Archit from temp.js")}
